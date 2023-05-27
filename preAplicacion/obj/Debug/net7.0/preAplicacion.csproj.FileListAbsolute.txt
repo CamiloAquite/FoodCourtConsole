@@ -1,0 +1,15 @@
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\bin\Debug\net7.0\preAplicacion.exe
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\bin\Debug\net7.0\preAplicacion.deps.json
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\bin\Debug\net7.0\preAplicacion.runtimeconfig.json
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\bin\Debug\net7.0\preAplicacion.dll
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\bin\Debug\net7.0\preAplicacion.pdb
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.csproj.AssemblyReference.cache
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.AssemblyInfoInputs.cache
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.AssemblyInfo.cs
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.dll
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\refint\preAplicacion.dll
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.pdb
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\preAplicacion.genruntimeconfig.cache
+C:\Users\Camilo Aquite\source\repos\preAplicacion\preAplicacion\obj\Debug\net7.0\ref\preAplicacion.dll
